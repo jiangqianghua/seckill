@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
-//http://127.0.0.1:8080/seckill/seckill/list
+//http://127.0.0.1:8081/seckill/list
 @Controller
 @RequestMapping("/seckill") //url:/模块/资源/{id}/细分   /seckill/list
 public class SeckillController {
